@@ -1,0 +1,23 @@
+<students>
+    <student>
+        <id>1</id>
+        <name>John Doe</name>
+        <age>20</age>
+        <grade>A</grade>
+        <city>New York</city>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Jane Smith</name>
+        <age>22</age>
+        <grade>B+</grade>
+        <city>Los Angeles</city>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Michael Johnson</name>
+        <age>21</age>
+        <grade>A-</grade>
+        <city>Chicago</city>
+    </student>
+</students>
